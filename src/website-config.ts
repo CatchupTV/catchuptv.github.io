@@ -28,7 +28,7 @@ const config: WebsiteConfig = {
   description: 'The professional publishing platform',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://catchuptv.github.io',
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
