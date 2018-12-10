@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
+    title: 'CatchupTV',
     description: 'The professional publishing platform',
     siteUrl: 'https://catchuptv.github.io', // full path to blog - no ending slash
   },
