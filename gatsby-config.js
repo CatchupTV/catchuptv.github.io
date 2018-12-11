@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'CatchupTV',
-    description: 'The professional publishing platform',
+    description: 'Catch the Technology! Belajar Coding itu mudah',
     siteUrl: 'https://catchuptv.github.io', // full path to blog - no ending slash
   },
   mapping: {
